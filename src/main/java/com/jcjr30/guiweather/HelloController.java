@@ -62,7 +62,7 @@ public class HelloController {
         feelsLikeTemp.setText(API_results.getFeelsLikeTemp() + "°F");
         rainChance.setText(API_results.getRainChance() + "%");
         humidity.setText(API_results.getHumidity() + "%");
-        windSpeed.setText(API_results.getWindSpeed() + "mp/h");
+        windSpeed.setText(API_results.getWindSpeed() + " mph");
         windDirection.setText(API_results.getWindDirection() + "");
 
         //Daily Values
