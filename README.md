@@ -10,7 +10,7 @@ Current: <br/>
 -Wind Direction <br/>
 <br/>
 Daily: <br/>
--High <br/>
--Low <br/>
+-High Temperature <br/>
+-Low Temperature <br/>
 -Rain Chance
 
